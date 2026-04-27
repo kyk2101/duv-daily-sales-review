@@ -24,11 +24,13 @@ $Trigger2 = New-ScheduledTaskTrigger -AtLogOn
 
 $Settings = New-ScheduledTaskSettingsSet `
     -StartWhenAvailable `
+    -WakeToRun `
     -DontStopOnIdleEnd `
     -ExecutionTimeLimit (New-TimeSpan -Minutes 15) `
     -RestartCount 2 `
     -RestartInterval (New-TimeSpan -Minutes 5) `
-    -MultipleInstances IgnoreNew
+    -MultipleInstances IgnoreNew `
+    -AllowStartIfOnBatteries
 
 $Principal = New-ScheduledTaskPrincipal -UserId $env:USERNAME -LogonType Interactive -RunLevel Limited
 
