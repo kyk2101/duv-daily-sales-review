@@ -1,0 +1,52 @@
+# GitHub Actions: 일일 자동 갱신 (Phase 2 - DCS 서비스 토큰 발급 후 활성화)
+#
+# 현재 상태: SKIP. DCS API가 브라우저 OAuth + localhost 콜백만 지원해
+# CI 환경에서 자동 인증 불가. F&F DCS팀에서 장기 서비스 토큰 발급 시 활성화.
+#
+# 활성화 절차:
+#   1. F&F DCS팀에서 장기 API 토큰 발급
+#   2. GitHub repo → Settings → Secrets and variables → Actions
+#      → New repository secret: DCSAI_TOKEN = <발급받은 토큰>
+#   3. 아래 workflow의 if: false 라인 제거
+#   4. fetch_data.py를 dcs-ai-cli 대신 직접 HTTP 호출하도록 수정
+
+name: daily-build
+
+on:
+  schedule:
+    # 23:00 UTC = 08:00 KST
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: false  # ← Phase 2 활성화 시 이 라인 제거
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Fetch data
+        env:
+          DCSAI_TOKEN: ${{ secrets.DCSAI_TOKEN }}
+        run: python src/service/sales_review_app/fetch_data.py
+
+      - name: Build JSON
+        run: python src/service/sales_review_app/build_app.py
+
+      - name: Build HTML
+        run: python src/service/sales_review_app/build_html.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html data/duv_review_data.json
+          git diff --cached --quiet || git commit -m "data: daily update $(date -u +%Y%m%d-%H%M)"
+          git push

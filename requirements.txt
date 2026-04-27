@@ -1,0 +1,3 @@
+# 표준 라이브러리만 사용 (현재 build 단계).
+# Phase 2 (GitHub Actions cloud automation) 활성화 시:
+#   requests
