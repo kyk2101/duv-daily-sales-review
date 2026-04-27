@@ -49,9 +49,39 @@ def topn(rows: list[dict], key: str, n: int = 20) -> list[dict]:
     return sorted(rows, key=lambda r: r.get(key) or 0, reverse=True)[:n]
 
 
-def build_season_top(color_rows: list[dict], season_label: str, sesn_code: str) -> dict:
-    """color_rows: 각 행이 (PRDT_CD × COLOR_CD) 단위. PRDT_CD로 집계하면서 컬러 리스트 보존."""
-    rows = [r for r in color_rows if r.get("SESN") == sesn_code]
+def build_inventory_index(inv_rows: list[dict], sesn_code: str) -> dict[str, dict]:
+    """입고/재고 backdrop. PRDT_CD → {stor_qty, stock_qty}.
+
+    inv_rows: get_season_wear_style_order_stor_sale_stock_sale_rt 결과 (정상+이월 합산).
+    """
+    idx: dict[str, dict] = {}
+    for r in inv_rows:
+        if r.get("SESN") != sesn_code:
+            continue
+        pc = r.get("PRDT_CD")
+        if not pc:
+            continue
+        e = idx.get(pc)
+        if e is None:
+            idx[pc] = {
+                "stor_qty": r.get("AC_STOR_QTY") or 0,
+                "stock_qty": r.get("STOCK_QTY") or 0,
+            }
+        else:
+            e["stor_qty"] += r.get("AC_STOR_QTY") or 0
+            e["stock_qty"] += r.get("STOCK_QTY") or 0
+    return idx
+
+
+def build_season_top(sales_color_rows: list[dict], inv_index: dict[str, dict],
+                     season_label: str, sesn_code: str) -> dict:
+    """정상 매출(STAT_NM='정상') 데이터로 PRDT_CD별 랭킹 + 컬러 breakdown 구성.
+
+    sales_color_rows: get_channel_product_sale_type_normal_budget 결과 (정상 필터),
+      각 행은 (PRDT_CD × COLOR_CD) 단위.
+    inv_index: PRDT_CD별 입고/재고 인덱스 (build_inventory_index 결과).
+    """
+    rows = [r for r in sales_color_rows if r.get("SESN") == sesn_code]
 
     by_style: dict[str, dict] = {}
     for r in rows:
@@ -60,6 +90,7 @@ def build_season_top(color_rows: list[dict], season_label: str, sesn_code: str) 
             continue
         s = by_style.get(pc)
         if s is None:
+            inv = inv_index.get(pc, {"stor_qty": 0, "stock_qty": 0})
             s = {
                 "prdt_cd": pc,
                 "prdt_nm": r.get("PRDT_NM"),
@@ -69,25 +100,19 @@ def build_season_top(color_rows: list[dict], season_label: str, sesn_code: str) 
                 "img": r.get("PRDT_IMG_URL"),
                 "sale_amt": 0,
                 "sale_qty": 0,
-                "stor_qty": 0,
-                "stock_qty": 0,
+                "stor_qty": inv["stor_qty"],
+                "stock_qty": inv["stock_qty"],
                 "colors": [],
             }
             by_style[pc] = s
-        amt = r.get("AC_SALE_AMT") or 0
-        qty = r.get("AC_SALE_QTY") or 0
-        stor = r.get("AC_STOR_QTY") or 0
-        stk = r.get("STOCK_QTY") or 0
+        amt = r.get("SALE_AMT") or 0
+        qty = r.get("SALE_QTY") or 0
         s["sale_amt"] += amt
         s["sale_qty"] += qty
-        s["stor_qty"] += stor
-        s["stock_qty"] += stk
         s["colors"].append({
             "color_cd": r.get("COLOR_CD") or "-",
             "amt": amt,
             "qty": qty,
-            "stor": stor,
-            "stock": stk,
         })
 
     styles = list(by_style.values())
@@ -287,14 +312,22 @@ def build_season_insights(season: dict, sesn_code: str, yesterday: dict, daily: 
 
 
 def main():
-    color_data = load_latest("duv_25fw_styles_color") + load_latest("duv_26ss_styles_color")
-    shop_25fw = load_latest("duv_25fw_shop_styles")
-    shop_26ss = load_latest("duv_26ss_shop_styles")
-    daily_rows = load_latest("duv_daily_7d")
-    yesterday_rows = load_latest("duv_yesterday_styles")
+    # 입고/재고 backdrop (정상+이월 합산이지만 입고/재고는 시즌 전체가 같음)
+    inv_25fw = load_latest("duv_25fw_inventory")
+    inv_26ss = load_latest("duv_26ss_inventory")
+    inv_idx_25fw = build_inventory_index(inv_25fw, "25F")
+    inv_idx_26ss = build_inventory_index(inv_26ss, "26S")
 
-    s_25fw = build_season_top(color_data, "25FW", "25F")
-    s_26ss = build_season_top(color_data, "26SS", "26S")
+    # 정상 매출 데이터 (STAT_NM='정상' 필터)
+    sales_color_25fw = load_latest("duv_25fw_sales_normal")
+    sales_color_26ss = load_latest("duv_26ss_sales_normal")
+    shop_25fw = load_latest("duv_25fw_shops_normal")
+    shop_26ss = load_latest("duv_26ss_shops_normal")
+    daily_rows = load_latest("duv_daily_7d_normal")
+    yesterday_rows = load_latest("duv_yesterday_styles_normal")
+
+    s_25fw = build_season_top(sales_color_25fw, inv_idx_25fw, "25FW", "25F")
+    s_26ss = build_season_top(sales_color_26ss, inv_idx_26ss, "26SS", "26S")
 
     shops_25fw = build_shop_top(shop_25fw)
     shops_26ss = build_shop_top(shop_26ss)
