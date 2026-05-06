@@ -2,483 +2,221 @@
   "meta": {
     "brand": "DUVETICA",
     "brand_cd": "V",
-    "base_dt": "2026-04-29",
-    "today": "2026-04-30",
-    "generated_at": "2026-04-30"
+    "base_dt": "2026-05-05",
+    "today": "2026-05-06",
+    "generated_at": "2026-05-06"
   },
   "yesterday": {
-    "base_dt": "2026-04-29",
-    "total_amt": 33641200,
-    "total_qty": 110,
+    "base_dt": "2026-05-05",
+    "total_amt": 44640000,
+    "total_qty": 119,
     "by_sesn": [
       {
         "sesn": "26S",
-        "amt": 19724960,
-        "qty": 59
+        "amt": 40802000,
+        "qty": 108
       },
       {
         "sesn": "25S",
-        "amt": 8877240,
-        "qty": 43
-      },
-      {
-        "sesn": "25F",
-        "amt": 4941000,
+        "amt": 2833000,
         "qty": 7
       },
       {
-        "sesn": "22F",
-        "amt": 315000,
-        "qty": 1
-      },
-      {
         "sesn": "26N",
-        "amt": 98000,
-        "qty": 1
-      },
-      {
-        "sesn": "25N",
-        "amt": -315000,
-        "qty": -1
+        "amt": 1005000,
+        "qty": 4
       }
     ],
     "top_styles": [
       {
         "rank": 1,
-        "prdt_cd": "V26SVDWJ11961",
-        "prdt_nm": "카살리나",
+        "prdt_cd": "V26SVDWJ31061",
+        "prdt_nm": "비아싸 N",
         "item_nm": "방풍자켓",
         "sesn": "26S",
-        "amt": 2212000,
-        "qty": 3
+        "amt": 9867000,
+        "qty": 16
       },
       {
         "rank": 2,
-        "prdt_cd": "V26SVDWJ10261",
-        "prdt_nm": "카몰리",
-        "item_nm": "방풍자켓",
-        "sesn": "26S",
-        "amt": 1652000,
-        "qty": 3
-      },
-      {
-        "rank": 3,
-        "prdt_cd": "V25SVDWJ14253",
-        "prdt_nm": "알테아 N",
-        "item_nm": "방풍자켓",
-        "sesn": "25S",
-        "amt": 1569400,
-        "qty": 4
-      },
-      {
-        "rank": 4,
         "prdt_cd": "V26SVDWJ31361",
         "prdt_nm": "코쟈",
         "item_nm": "방풍자켓",
         "sesn": "26S",
-        "amt": 1440230,
-        "qty": 2
+        "amt": 3792000,
+        "qty": 5
+      },
+      {
+        "rank": 3,
+        "prdt_cd": "V26SVDWJ10161",
+        "prdt_nm": "코쟈 미니",
+        "item_nm": "방풍자켓",
+        "sesn": "26S",
+        "amt": 2622000,
+        "qty": 4
+      },
+      {
+        "rank": 4,
+        "prdt_cd": "V26SVDWJ10261",
+        "prdt_nm": "카몰리",
+        "item_nm": "방풍자켓",
+        "sesn": "26S",
+        "amt": 1593000,
+        "qty": 3
       },
       {
         "rank": 5,
-        "prdt_cd": "V26SVDCR17463",
-        "prdt_nm": "파테르노",
-        "item_nm": "크로스백",
+        "prdt_cd": "V26SVDTS19963",
+        "prdt_nm": "베야노",
+        "item_nm": "반팔카라티셔츠",
         "sesn": "26S",
-        "amt": 1363000,
+        "amt": 1542000,
         "qty": 5
       },
       {
         "rank": 6,
-        "prdt_cd": "V26SVDWJ31061",
-        "prdt_nm": "비아싸 N",
+        "prdt_cd": "V26SVDWJ11961",
+        "prdt_nm": "카살리나",
+        "item_nm": "방풍자켓",
+        "sesn": "26S",
+        "amt": 1422000,
+        "qty": 2
+      },
+      {
+        "rank": 7,
+        "prdt_cd": "V26SVUWJ16761",
+        "prdt_nm": "보마르초",
         "item_nm": "방풍자켓",
         "sesn": "26S",
         "amt": 1242000,
         "qty": 2
       },
       {
-        "rank": 7,
-        "prdt_cd": "V25FVUDJ30456",
-        "prdt_nm": "아우바 N",
-        "item_nm": "다운점퍼",
-        "sesn": "25F",
-        "amt": 1161000,
-        "qty": 1
-      },
-      {
         "rank": 8,
-        "prdt_cd": "V25SVDWJ10651",
-        "prdt_nm": "바니아 N",
+        "prdt_cd": "V25SVDWJ31351",
+        "prdt_nm": "코쟈 미니",
         "item_nm": "방풍자켓",
         "sesn": "25S",
-        "amt": 1113100,
-        "qty": 3
+        "amt": 1104000,
+        "qty": 2
       },
       {
         "rank": 9,
-        "prdt_cd": "V25FVDDJ15056",
-        "prdt_nm": "디아데마 슈가",
-        "item_nm": "다운점퍼",
-        "sesn": "25F",
-        "amt": 1071000,
-        "qty": 1
+        "prdt_cd": "V26SVUWJ11463",
+        "prdt_nm": "부치노",
+        "item_nm": "방풍자켓",
+        "sesn": "26S",
+        "amt": 931000,
+        "qty": 2
       },
       {
         "rank": 10,
-        "prdt_cd": "V25SVUTS10753",
-        "prdt_nm": "폰트레몰리",
-        "item_nm": "반팔카라티셔츠",
+        "prdt_cd": "V25SVDWJ31551",
+        "prdt_nm": "레지아 미드",
+        "item_nm": "방풍자켓",
         "sesn": "25S",
-        "amt": 1046500,
-        "qty": 7
+        "amt": 790000,
+        "qty": 1
       }
     ],
     "top_by_sesn": {
-      "25F": [
-        {
-          "rank": 1,
-          "prdt_cd": "V25FVUDJ30456",
-          "prdt_nm": "아우바 N",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 1161000,
-          "qty": 1
-        },
-        {
-          "rank": 2,
-          "prdt_cd": "V25FVDDJ15056",
-          "prdt_nm": "디아데마 슈가",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 1071000,
-          "qty": 1
-        },
-        {
-          "rank": 3,
-          "prdt_cd": "V25FVUDJ13856",
-          "prdt_nm": "포폴로",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 981000,
-          "qty": 1
-        },
-        {
-          "rank": 4,
-          "prdt_cd": "V25FVDDH30155",
-          "prdt_nm": "에우리피데 크롭",
-          "item_nm": "반팔다운",
-          "sesn": "25F",
-          "amt": 891000,
-          "qty": 1
-        },
-        {
-          "rank": 5,
-          "prdt_cd": "V25FVUWJ15854",
-          "prdt_nm": "타란토",
-          "item_nm": "방풍자켓",
-          "sesn": "25F",
-          "amt": 567000,
-          "qty": 1
-        },
-        {
-          "rank": 6,
-          "prdt_cd": "V25FVDWJ11054",
-          "prdt_nm": "발리아",
-          "item_nm": "방풍자켓",
-          "sesn": "25F",
-          "amt": 531000,
-          "qty": 1
-        },
-        {
-          "rank": 7,
-          "prdt_cd": "V25FVUKP10754",
-          "prdt_nm": "마쿠냐가",
-          "item_nm": "니트풀오버",
-          "sesn": "25F",
-          "amt": 351000,
-          "qty": 1
-        },
-        {
-          "rank": 8,
-          "prdt_cd": "V25FVDRL12454",
-          "prdt_nm": "크로시아",
-          "item_nm": "긴팔티셔츠",
-          "sesn": "25F",
-          "amt": 189000,
-          "qty": 1
-        },
-        {
-          "rank": 9,
-          "prdt_cd": "V25FVUDJ11756",
-          "prdt_nm": "디마 코듀로이",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 0,
-          "qty": 0
-        },
-        {
-          "rank": 10,
-          "prdt_cd": "V25FVDDJ36455",
-          "prdt_nm": "바를레타",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": -801000,
-          "qty": -1
-        }
-      ],
+      "25F": [],
       "26S": [
         {
           "rank": 1,
-          "prdt_cd": "V26SVDWJ11961",
-          "prdt_nm": "카살리나",
+          "prdt_cd": "V26SVDWJ31061",
+          "prdt_nm": "비아싸 N",
           "item_nm": "방풍자켓",
           "sesn": "26S",
-          "amt": 2212000,
-          "qty": 3
+          "amt": 9867000,
+          "qty": 16
         },
         {
           "rank": 2,
-          "prdt_cd": "V26SVDWJ10261",
-          "prdt_nm": "카몰리",
-          "item_nm": "방풍자켓",
-          "sesn": "26S",
-          "amt": 1652000,
-          "qty": 3
-        },
-        {
-          "rank": 3,
           "prdt_cd": "V26SVDWJ31361",
           "prdt_nm": "코쟈",
           "item_nm": "방풍자켓",
           "sesn": "26S",
-          "amt": 1440230,
-          "qty": 2
-        },
-        {
-          "rank": 4,
-          "prdt_cd": "V26SVDCR17463",
-          "prdt_nm": "파테르노",
-          "item_nm": "크로스백",
-          "sesn": "26S",
-          "amt": 1363000,
+          "amt": 3792000,
           "qty": 5
         },
         {
+          "rank": 3,
+          "prdt_cd": "V26SVDWJ10161",
+          "prdt_nm": "코쟈 미니",
+          "item_nm": "방풍자켓",
+          "sesn": "26S",
+          "amt": 2622000,
+          "qty": 4
+        },
+        {
+          "rank": 4,
+          "prdt_cd": "V26SVDWJ10261",
+          "prdt_nm": "카몰리",
+          "item_nm": "방풍자켓",
+          "sesn": "26S",
+          "amt": 1593000,
+          "qty": 3
+        },
+        {
           "rank": 5,
-          "prdt_cd": "V26SVDWJ31061",
-          "prdt_nm": "비아싸 N",
+          "prdt_cd": "V26SVDTS19963",
+          "prdt_nm": "베야노",
+          "item_nm": "반팔카라티셔츠",
+          "sesn": "26S",
+          "amt": 1542000,
+          "qty": 5
+        },
+        {
+          "rank": 6,
+          "prdt_cd": "V26SVDWJ11961",
+          "prdt_nm": "카살리나",
+          "item_nm": "방풍자켓",
+          "sesn": "26S",
+          "amt": 1422000,
+          "qty": 2
+        },
+        {
+          "rank": 7,
+          "prdt_cd": "V26SVUWJ16761",
+          "prdt_nm": "보마르초",
           "item_nm": "방풍자켓",
           "sesn": "26S",
           "amt": 1242000,
           "qty": 2
         },
         {
-          "rank": 6,
-          "prdt_cd": "V26SVDWJ14361",
-          "prdt_nm": "레지아 숏",
+          "rank": 8,
+          "prdt_cd": "V26SVUWJ11463",
+          "prdt_nm": "부치노",
           "item_nm": "방풍자켓",
           "sesn": "26S",
-          "amt": 790000,
-          "qty": 1
-        },
-        {
-          "rank": 7,
-          "prdt_cd": "V26SVDPT18161",
-          "prdt_nm": "벨로나 와이드",
-          "item_nm": "팬츠",
-          "sesn": "26S",
-          "amt": 783000,
-          "qty": 3
-        },
-        {
-          "rank": 8,
-          "prdt_cd": "V26SVDKC12863",
-          "prdt_nm": "라누비오",
-          "item_nm": "니트가디건",
-          "sesn": "26S",
-          "amt": 700000,
+          "amt": 931000,
           "qty": 2
         },
         {
           "rank": 9,
-          "prdt_cd": "V26SVDWJ10661",
-          "prdt_nm": "솔레도라",
-          "item_nm": "방풍자켓",
+          "prdt_cd": "V26SVDKP20463",
+          "prdt_nm": "아이아체 하프",
+          "item_nm": "니트풀오버",
           "sesn": "26S",
-          "amt": 690000,
-          "qty": 1
+          "amt": 783020,
+          "qty": 3
         },
         {
           "rank": 10,
-          "prdt_cd": "V26SVUSP15961",
-          "prdt_nm": "마티노 쇼츠",
-          "item_nm": "반바지",
+          "prdt_cd": "V26SVUKP15661",
+          "prdt_nm": "오트리콜리",
+          "item_nm": "니트풀오버",
           "sesn": "26S",
-          "amt": 588000,
-          "qty": 3
+          "amt": 665000,
+          "qty": 2
         }
       ]
     }
   },
   "daily": {
     "days": [
-      {
-        "dt": "2026-04-23",
-        "label": "4/23(목)",
-        "amt": 25106620,
-        "qty": 76,
-        "by_sesn": {
-          "26S": {
-            "amt": 19245000,
-            "qty": 49
-          },
-          "25S": {
-            "amt": 4619620,
-            "qty": 23
-          },
-          "26N": {
-            "amt": 927000,
-            "qty": 3
-          },
-          "25N": {
-            "amt": 315000,
-            "qty": 1
-          }
-        }
-      },
-      {
-        "dt": "2026-04-24",
-        "label": "4/24(금)",
-        "amt": 46722140,
-        "qty": 154,
-        "by_sesn": {
-          "26S": {
-            "amt": 31744890,
-            "qty": 82
-          },
-          "25S": {
-            "amt": 14317640,
-            "qty": 67
-          },
-          "26N": {
-            "amt": 2289610,
-            "qty": 8
-          },
-          "25F": {
-            "amt": -1630000,
-            "qty": -3
-          }
-        }
-      },
-      {
-        "dt": "2026-04-25",
-        "label": "4/25(토)",
-        "amt": 44667100,
-        "qty": 136,
-        "by_sesn": {
-          "26S": {
-            "amt": 29989000,
-            "qty": 75
-          },
-          "25S": {
-            "amt": 12742100,
-            "qty": 53
-          },
-          "26N": {
-            "amt": 2199000,
-            "qty": 7
-          },
-          "25N": {
-            "amt": 628000,
-            "qty": 2
-          },
-          "25F": {
-            "amt": -891000,
-            "qty": -1
-          }
-        }
-      },
-      {
-        "dt": "2026-04-26",
-        "label": "4/26(일)",
-        "amt": 72399900,
-        "qty": 235,
-        "by_sesn": {
-          "26S": {
-            "amt": 49929500,
-            "qty": 136
-          },
-          "25S": {
-            "amt": 20616600,
-            "qty": 87
-          },
-          "26N": {
-            "amt": 1654000,
-            "qty": 7
-          },
-          "22S": {
-            "amt": 433800,
-            "qty": 5
-          },
-          "25N": {
-            "amt": 297000,
-            "qty": 1
-          },
-          "25F": {
-            "amt": -531000,
-            "qty": -1
-          }
-        }
-      },
-      {
-        "dt": "2026-04-27",
-        "label": "4/27(월)",
-        "amt": 24833620,
-        "qty": 89,
-        "by_sesn": {
-          "26S": {
-            "amt": 14991020,
-            "qty": 51
-          },
-          "25S": {
-            "amt": 8654220,
-            "qty": 33
-          },
-          "26N": {
-            "amt": 1188380,
-            "qty": 5
-          },
-          "25F": {
-            "amt": 0,
-            "qty": 0
-          }
-        }
-      },
-      {
-        "dt": "2026-04-28",
-        "label": "4/28(화)",
-        "amt": 27591300,
-        "qty": 93,
-        "by_sesn": {
-          "26S": {
-            "amt": 14800440,
-            "qty": 49
-          },
-          "25S": {
-            "amt": 9749860,
-            "qty": 35
-          },
-          "26N": {
-            "amt": 2690000,
-            "qty": 8
-          },
-          "25F": {
-            "amt": 351000,
-            "qty": 1
-          }
-        }
-      },
       {
         "dt": "2026-04-29",
         "label": "4/29(수)",
@@ -510,6 +248,146 @@
             "qty": -1
           }
         }
+      },
+      {
+        "dt": "2026-04-30",
+        "label": "4/30(목)",
+        "amt": 26407000,
+        "qty": 90,
+        "by_sesn": {
+          "26S": {
+            "amt": 19007500,
+            "qty": 58
+          },
+          "25S": {
+            "amt": 6430300,
+            "qty": 28
+          },
+          "26N": {
+            "amt": 619200,
+            "qty": 3
+          },
+          "25N": {
+            "amt": 350000,
+            "qty": 1
+          },
+          "25F": {
+            "amt": 0,
+            "qty": 0
+          }
+        }
+      },
+      {
+        "dt": "2026-05-01",
+        "label": "5/1(금)",
+        "amt": 49624900,
+        "qty": 148,
+        "by_sesn": {
+          "26S": {
+            "amt": 39363000,
+            "qty": 97
+          },
+          "25S": {
+            "amt": 8698900,
+            "qty": 44
+          },
+          "26N": {
+            "amt": 1423000,
+            "qty": 6
+          },
+          "25N": {
+            "amt": 140000,
+            "qty": 1
+          }
+        }
+      },
+      {
+        "dt": "2026-05-02",
+        "label": "5/2(토)",
+        "amt": 55048360,
+        "qty": 173,
+        "by_sesn": {
+          "26S": {
+            "amt": 42705000,
+            "qty": 116
+          },
+          "25S": {
+            "amt": 10534360,
+            "qty": 50
+          },
+          "26N": {
+            "amt": 1496000,
+            "qty": 6
+          },
+          "25N": {
+            "amt": 313000,
+            "qty": 1
+          }
+        }
+      },
+      {
+        "dt": "2026-05-03",
+        "label": "5/3(일)",
+        "amt": 57911700,
+        "qty": 201,
+        "by_sesn": {
+          "26S": {
+            "amt": 36570000,
+            "qty": 95
+          },
+          "25S": {
+            "amt": 18023700,
+            "qty": 95
+          },
+          "26N": {
+            "amt": 3318000,
+            "qty": 11
+          }
+        }
+      },
+      {
+        "dt": "2026-05-04",
+        "label": "5/4(월)",
+        "amt": 37125450,
+        "qty": 138,
+        "by_sesn": {
+          "26S": {
+            "amt": 24809000,
+            "qty": 73
+          },
+          "25S": {
+            "amt": 11519450,
+            "qty": 62
+          },
+          "26N": {
+            "amt": 500000,
+            "qty": 2
+          },
+          "25N": {
+            "amt": 297000,
+            "qty": 1
+          }
+        }
+      },
+      {
+        "dt": "2026-05-05",
+        "label": "5/5(화)",
+        "amt": 44640000,
+        "qty": 119,
+        "by_sesn": {
+          "26S": {
+            "amt": 40802000,
+            "qty": 108
+          },
+          "25S": {
+            "amt": 2833000,
+            "qty": 7
+          },
+          "26N": {
+            "amt": 1005000,
+            "qty": 4
+          }
+        }
       }
     ]
   },
@@ -517,9 +395,9 @@
     "26SS": {
       "label": "26SS",
       "sesn": "26S",
-      "total_amt": 2498983620,
-      "total_qty": 4503,
-      "style_count": 151,
+      "total_amt": 2702240120,
+      "total_qty": 5050,
+      "style_count": 157,
       "top_amt": [
         {
           "prdt_cd": "V26SVDWJ31461",
@@ -527,24 +405,24 @@
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 1090000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31461BKS/thnail/3B6D2E5B429C423F96C69C02016FF3B8.jpg/dims/resize/200x200",
-          "sale_amt": 314433970,
-          "sale_qty": 321,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31461BGS/thnail/57B8015B83754157B4EAEDC215983351.jpg/dims/resize/200x200",
+          "sale_amt": 317267970,
+          "sale_qty": 324,
           "stor_qty": 646,
-          "stock_qty": 325,
+          "stock_qty": 322,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 172419720,
-              "qty": 176
+              "amt": 174381720,
+              "qty": 178
             },
             {
               "color_cd": "BGS",
-              "amt": 142014250,
-              "qty": 145
+              "amt": 142886250,
+              "qty": 146
             }
           ],
-          "sale_rt": 0.4969040247678019,
+          "sale_rt": 0.5015479876160991,
           "rank": 1
         },
         {
@@ -553,30 +431,51 @@
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 690000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31061GRL/thnail/3E20BFD676724435BEC6B23B299C4618.jpg/dims/resize/200x200",
-          "sale_amt": 173986810,
-          "sale_qty": 279,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31061BGS/thnail/4A5118FC75624811AA8C336121EC6A61.jpg/dims/resize/200x200",
+          "sale_amt": 198343810,
+          "sale_qty": 318,
           "stor_qty": 794,
-          "stock_qty": 515,
+          "stock_qty": 476,
           "colors": [
             {
               "color_cd": "BGS",
-              "amt": 77862580,
-              "qty": 125
+              "amt": 85866580,
+              "qty": 138
             },
             {
               "color_cd": "GRL",
-              "amt": 48962640,
-              "qty": 79
+              "amt": 60278640,
+              "qty": 97
             },
             {
               "color_cd": "BKS",
-              "amt": 47161590,
-              "qty": 75
+              "amt": 52198590,
+              "qty": 83
             }
           ],
-          "sale_rt": 0.3513853904282116,
+          "sale_rt": 0.4005037783375315,
           "rank": 2
+        },
+        {
+          "prdt_cd": "V26SVDDH36361",
+          "prdt_nm": "에우리피데 벨벳",
+          "item_nm": "반팔다운",
+          "item_group": "다운",
+          "tag_price": 1090000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36361BKL/thnail/758852AB08954CA8A179018EEA204CD2.jpg/dims/resize/200x200",
+          "sale_amt": 158360600,
+          "sale_qty": 160,
+          "stor_qty": 638,
+          "stock_qty": 225,
+          "colors": [
+            {
+              "color_cd": "BKL",
+              "amt": 158360600,
+              "qty": 160
+            }
+          ],
+          "sale_rt": 0.2507836990595611,
+          "rank": 3
         },
         {
           "prdt_cd": "V26SVDDJ31361",
@@ -597,27 +496,6 @@
             }
           ],
           "sale_rt": 0.4358974358974359,
-          "rank": 3
-        },
-        {
-          "prdt_cd": "V26SVDDH36361",
-          "prdt_nm": "에우리피데 벨벳",
-          "item_nm": "반팔다운",
-          "item_group": "다운",
-          "tag_price": 1090000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36361BKL/thnail/758852AB08954CA8A179018EEA204CD2.jpg/dims/resize/200x200",
-          "sale_amt": 156398600,
-          "sale_qty": 158,
-          "stor_qty": 638,
-          "stock_qty": 227,
-          "colors": [
-            {
-              "color_cd": "BKL",
-              "amt": 156398600,
-              "qty": 158
-            }
-          ],
-          "sale_rt": 0.2476489028213166,
           "rank": 4
         },
         {
@@ -626,11 +504,11 @@
           "item_nm": "다운점퍼",
           "item_group": "다운",
           "tag_price": 890000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDJ36461TQL/thnail/041200A0A4D045FAA5F3CCF0E52C0493.jpg/dims/resize/200x200",
-          "sale_amt": 152795570,
-          "sale_qty": 191,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDJ36461BKS/thnail/33758996ADA440DA8647E5C585CCF5E3.jpg/dims/resize/200x200",
+          "sale_amt": 153596570,
+          "sale_qty": 192,
           "stor_qty": 509,
-          "stock_qty": 318,
+          "stock_qty": 317,
           "colors": [
             {
               "color_cd": "IVD",
@@ -644,38 +522,12 @@
             },
             {
               "color_cd": "BKS",
-              "amt": 37444090,
-              "qty": 46
+              "amt": 38245090,
+              "qty": 47
             }
           ],
-          "sale_rt": 0.37524557956778,
+          "sale_rt": 0.37721021611001965,
           "rank": 5
-        },
-        {
-          "prdt_cd": "V26SVDWJ31361",
-          "prdt_nm": "코쟈",
-          "item_nm": "방풍자켓",
-          "item_group": "아우터",
-          "tag_price": 790000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31361BGS/thnail/41589FB2D1124122964A92D5ABC2C270.jpg/dims/resize/200x200",
-          "sale_amt": 83146370,
-          "sale_qty": 116,
-          "stor_qty": 413,
-          "stock_qty": 297,
-          "colors": [
-            {
-              "color_cd": "BKS",
-              "amt": 45918260,
-              "qty": 65
-            },
-            {
-              "color_cd": "BGS",
-              "amt": 37228110,
-              "qty": 51
-            }
-          ],
-          "sale_rt": 0.28087167070217917,
-          "rank": 6
         },
         {
           "prdt_cd": "V26SVDWJ11961",
@@ -683,34 +535,60 @@
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 790000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ11961BKS/thnail/EC5B0C1AD6FD422B8997959D8B7D2137.jpg/dims/resize/200x200",
-          "sale_amt": 82865060,
-          "sale_qty": 116,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ11961BRD/thnail/5DFDEEA5F380453AA825CADF5BC5F2A6.jpg/dims/resize/200x200",
+          "sale_amt": 93767060,
+          "sale_qty": 131,
           "stor_qty": 805,
-          "stock_qty": 689,
+          "stock_qty": 674,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 33494600,
-              "qty": 47
+              "amt": 34995600,
+              "qty": 49
             },
             {
               "color_cd": "CRS",
-              "amt": 20032610,
-              "qty": 28
+              "amt": 22165610,
+              "qty": 31
             },
             {
               "color_cd": "BGS",
-              "amt": 17220000,
-              "qty": 24
+              "amt": 19432000,
+              "qty": 27
             },
             {
               "color_cd": "BRD",
-              "amt": 12117850,
-              "qty": 17
+              "amt": 17173850,
+              "qty": 24
             }
           ],
-          "sale_rt": 0.14409937888198757,
+          "sale_rt": 0.16273291925465838,
+          "rank": 6
+        },
+        {
+          "prdt_cd": "V26SVDWJ31361",
+          "prdt_nm": "코쟈",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 790000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31361BKS/thnail/F6DBA907C5C0447698017C81DBCA91C1.jpg/dims/resize/200x200",
+          "sale_amt": 90493370,
+          "sale_qty": 126,
+          "stor_qty": 413,
+          "stock_qty": 287,
+          "colors": [
+            {
+              "color_cd": "BKS",
+              "amt": 50184260,
+              "qty": 71
+            },
+            {
+              "color_cd": "BGS",
+              "amt": 40309110,
+              "qty": 55
+            }
+          ],
+          "sale_rt": 0.3050847457627119,
           "rank": 7
         },
         {
@@ -740,6 +618,37 @@
           "rank": 8
         },
         {
+          "prdt_cd": "V26SVDWJ10261",
+          "prdt_nm": "카몰리",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 590000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10261CRS/thnail/BBD64F79D69C46C691D2519A3D96DFEB.jpg/dims/resize/200x200",
+          "sale_amt": 66729680,
+          "sale_qty": 124,
+          "stor_qty": 676,
+          "stock_qty": 552,
+          "colors": [
+            {
+              "color_cd": "TQL",
+              "amt": 27800390,
+              "qty": 51
+            },
+            {
+              "color_cd": "CRS",
+              "amt": 23415040,
+              "qty": 44
+            },
+            {
+              "color_cd": "BKS",
+              "amt": 15514250,
+              "qty": 29
+            }
+          ],
+          "sale_rt": 0.1834319526627219,
+          "rank": 9
+        },
+        {
           "prdt_cd": "V26SVDPD10361",
           "prdt_nm": "코레조",
           "item_nm": "패딩",
@@ -763,7 +672,38 @@
             }
           ],
           "sale_rt": 0.21621621621621623,
-          "rank": 9
+          "rank": 10
+        },
+        {
+          "prdt_cd": "V26SVDWJ10161",
+          "prdt_nm": "코쟈 미니",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 690000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10161BRD/thnail/8ED2B30B417D48AF80109F366BC0094D.png/dims/resize/200x200",
+          "sale_amt": 62213060,
+          "sale_qty": 99,
+          "stor_qty": 562,
+          "stock_qty": 463,
+          "colors": [
+            {
+              "color_cd": "IVS",
+              "amt": 27477240,
+              "qty": 44
+            },
+            {
+              "color_cd": "BKS",
+              "amt": 19624820,
+              "qty": 31
+            },
+            {
+              "color_cd": "BRD",
+              "amt": 15111000,
+              "qty": 24
+            }
+          ],
+          "sale_rt": 0.17615658362989323,
+          "rank": 11
         },
         {
           "prdt_cd": "V26SVDDH36061",
@@ -771,7 +711,7 @@
           "item_nm": "반팔다운",
           "item_group": "다운",
           "tag_price": 1090000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36061GRL/thnail/5C0FE4FFD0BF4AFC82CD3C3740AC4F8F.jpg/dims/resize/200x200",
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36061BGS/thnail/060C4FF2EE2A49FC9F6C9822874A01D6.jpg/dims/resize/200x200",
           "sale_amt": 61504540,
           "sale_qty": 62,
           "stor_qty": 426,
@@ -789,7 +729,7 @@
             }
           ],
           "sale_rt": 0.14553990610328638,
-          "rank": 10
+          "rank": 12
         },
         {
           "prdt_cd": "V26SVDDJ11861",
@@ -810,68 +750,6 @@
             }
           ],
           "sale_rt": 0.373134328358209,
-          "rank": 11
-        },
-        {
-          "prdt_cd": "V26SVDWJ10261",
-          "prdt_nm": "카몰리",
-          "item_nm": "방풍자켓",
-          "item_group": "아우터",
-          "tag_price": 590000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10261CRS/thnail/BBD64F79D69C46C691D2519A3D96DFEB.jpg/dims/resize/200x200",
-          "sale_amt": 57466680,
-          "sale_qty": 107,
-          "stor_qty": 676,
-          "stock_qty": 569,
-          "colors": [
-            {
-              "color_cd": "TQL",
-              "amt": 26679390,
-              "qty": 49
-            },
-            {
-              "color_cd": "CRS",
-              "amt": 18577040,
-              "qty": 35
-            },
-            {
-              "color_cd": "BKS",
-              "amt": 12210250,
-              "qty": 23
-            }
-          ],
-          "sale_rt": 0.15828402366863906,
-          "rank": 12
-        },
-        {
-          "prdt_cd": "V26SVDWJ10161",
-          "prdt_nm": "코쟈 미니",
-          "item_nm": "방풍자켓",
-          "item_group": "아우터",
-          "tag_price": 690000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10161BKS/thnail/621757737D41464A9551FC00ECE39DC3.jpg/dims/resize/200x200",
-          "sale_amt": 54485060,
-          "sale_qty": 87,
-          "stor_qty": 562,
-          "stock_qty": 475,
-          "colors": [
-            {
-              "color_cd": "IVS",
-              "amt": 25545240,
-              "qty": 41
-            },
-            {
-              "color_cd": "BKS",
-              "amt": 17623820,
-              "qty": 28
-            },
-            {
-              "color_cd": "BRD",
-              "amt": 11316000,
-              "qty": 18
-            }
-          ],
-          "sale_rt": 0.15480427046263345,
           "rank": 13
         },
         {
@@ -881,18 +759,18 @@
           "item_group": "다운",
           "tag_price": 1090000,
           "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDJ31561BKS/thnail/DF86A3D22B164BD69082DA5F7305A78F.jpg/dims/resize/200x200",
-          "sale_amt": 50497760,
-          "sale_qty": 52,
+          "sale_amt": 49516760,
+          "sale_qty": 51,
           "stor_qty": 306,
-          "stock_qty": 254,
+          "stock_qty": 255,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 50497760,
-              "qty": 52
+              "amt": 49516760,
+              "qty": 51
             }
           ],
-          "sale_rt": 0.16993464052287582,
+          "sale_rt": 0.16666666666666666,
           "rank": 14
         },
         {
@@ -901,21 +779,21 @@
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 790000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14361CRS/thnail/5C656218CA9244E48C200AC02234AADB.jpg/dims/resize/200x200",
-          "sale_amt": 40086000,
-          "sale_qty": 56,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14361BKS/thnail/4C2E328F30114FF0AAEABA5D169B949A.jpg/dims/resize/200x200",
+          "sale_amt": 40797000,
+          "sale_qty": 57,
           "stor_qty": 718,
-          "stock_qty": 662,
+          "stock_qty": 661,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 18012000,
-              "qty": 25
+              "amt": 19434000,
+              "qty": 27
             },
             {
               "color_cd": "CRS",
-              "amt": 14220000,
-              "qty": 20
+              "amt": 13509000,
+              "qty": 19
             },
             {
               "color_cd": "SBL",
@@ -923,8 +801,60 @@
               "qty": 11
             }
           ],
-          "sale_rt": 0.07799442896935933,
+          "sale_rt": 0.07938718662952646,
           "rank": 15
+        },
+        {
+          "prdt_cd": "V26SVDWJ31561",
+          "prdt_nm": "레지아 미드 N",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 890000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31561BKS/thnail/F45E9CBB936D4925B506EBD5B10B4901.jpg/dims/resize/200x200",
+          "sale_amt": 34354000,
+          "sale_qty": 43,
+          "stor_qty": 204,
+          "stock_qty": 161,
+          "colors": [
+            {
+              "color_cd": "BKS",
+              "amt": 34354000,
+              "qty": 43
+            }
+          ],
+          "sale_rt": 0.2107843137254902,
+          "rank": 16
+        },
+        {
+          "prdt_cd": "V26SVDWJ14561",
+          "prdt_nm": "살리카 N",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 690000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14561BRD/thnail/E8B637A119EC4AA18820CA515E48C6A1.png/dims/resize/200x200",
+          "sale_amt": 32386440,
+          "sale_qty": 52,
+          "stor_qty": 647,
+          "stock_qty": 595,
+          "colors": [
+            {
+              "color_cd": "BRD",
+              "amt": 19414440,
+              "qty": 31
+            },
+            {
+              "color_cd": "IVS",
+              "amt": 11730000,
+              "qty": 19
+            },
+            {
+              "color_cd": "LVL",
+              "amt": 1242000,
+              "qty": 2
+            }
+          ],
+          "sale_rt": 0.080370942812983,
+          "rank": 17
         },
         {
           "prdt_cd": "V26SVDDH31261",
@@ -955,28 +885,33 @@
             }
           ],
           "sale_rt": 0.0499219968798752,
-          "rank": 16
+          "rank": 18
         },
         {
-          "prdt_cd": "V26SVDWJ31561",
-          "prdt_nm": "레지아 미드 N",
+          "prdt_cd": "V26SVDWJ14263",
+          "prdt_nm": "알테아 N",
           "item_nm": "방풍자켓",
           "item_group": "아우터",
-          "tag_price": 890000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31561BKS/thnail/F45E9CBB936D4925B506EBD5B10B4901.jpg/dims/resize/200x200",
-          "sale_amt": 31150000,
-          "sale_qty": 39,
-          "stor_qty": 204,
-          "stock_qty": 165,
+          "tag_price": 590000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14263NYD/thnail/A7EA5C6CE1994B509795A55D2E6F85A1.jpg/dims/resize/200x200",
+          "sale_amt": 30986030,
+          "sale_qty": 58,
+          "stor_qty": 460,
+          "stock_qty": 402,
           "colors": [
             {
-              "color_cd": "BKS",
-              "amt": 31150000,
-              "qty": 39
+              "color_cd": "NYD",
+              "amt": 21371150,
+              "qty": 40
+            },
+            {
+              "color_cd": "PKL",
+              "amt": 9614880,
+              "qty": 18
             }
           ],
-          "sale_rt": 0.19117647058823528,
-          "rank": 17
+          "sale_rt": 0.12608695652173912,
+          "rank": 19
         },
         {
           "prdt_cd": "V26SVDDJ11761",
@@ -997,58 +932,6 @@
             }
           ],
           "sale_rt": 0.17258883248730963,
-          "rank": 18
-        },
-        {
-          "prdt_cd": "V26SVDPT18161",
-          "prdt_nm": "벨로나 와이드",
-          "item_nm": "팬츠",
-          "item_group": "팬츠",
-          "tag_price": 290000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDPT18161MGS/thnail/3E68CC97BD8A4D64AF4A8E272A6C9D94.png/dims/resize/200x200",
-          "sale_amt": 29192560,
-          "sale_qty": 110,
-          "stor_qty": 246,
-          "stock_qty": 136,
-          "colors": [
-            {
-              "color_cd": "BKS",
-              "amt": 16159740,
-              "qty": 61
-            },
-            {
-              "color_cd": "MGS",
-              "amt": 13032820,
-              "qty": 49
-            }
-          ],
-          "sale_rt": 0.44715447154471544,
-          "rank": 19
-        },
-        {
-          "prdt_cd": "V26SVDWJ14263",
-          "prdt_nm": "알테아 N",
-          "item_nm": "방풍자켓",
-          "item_group": "아우터",
-          "tag_price": 590000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14263NYD/thnail/A7EA5C6CE1994B509795A55D2E6F85A1.jpg/dims/resize/200x200",
-          "sale_amt": 26089030,
-          "sale_qty": 49,
-          "stor_qty": 460,
-          "stock_qty": 411,
-          "colors": [
-            {
-              "color_cd": "NYD",
-              "amt": 18067150,
-              "qty": 34
-            },
-            {
-              "color_cd": "PKL",
-              "amt": 8021880,
-              "qty": 15
-            }
-          ],
-          "sale_rt": 0.10652173913043478,
           "rank": 20
         }
       ],
@@ -1059,24 +942,24 @@
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 1090000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31461BKS/thnail/3B6D2E5B429C423F96C69C02016FF3B8.jpg/dims/resize/200x200",
-          "sale_amt": 314433970,
-          "sale_qty": 321,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31461BGS/thnail/57B8015B83754157B4EAEDC215983351.jpg/dims/resize/200x200",
+          "sale_amt": 317267970,
+          "sale_qty": 324,
           "stor_qty": 646,
-          "stock_qty": 325,
+          "stock_qty": 322,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 172419720,
-              "qty": 176
+              "amt": 174381720,
+              "qty": 178
             },
             {
               "color_cd": "BGS",
-              "amt": 142014250,
-              "qty": 145
+              "amt": 142886250,
+              "qty": 146
             }
           ],
-          "sale_rt": 0.4969040247678019,
+          "sale_rt": 0.5015479876160991,
           "rank": 1
         },
         {
@@ -1085,29 +968,29 @@
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 690000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31061GRL/thnail/3E20BFD676724435BEC6B23B299C4618.jpg/dims/resize/200x200",
-          "sale_amt": 173986810,
-          "sale_qty": 279,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31061BGS/thnail/4A5118FC75624811AA8C336121EC6A61.jpg/dims/resize/200x200",
+          "sale_amt": 198343810,
+          "sale_qty": 318,
           "stor_qty": 794,
-          "stock_qty": 515,
+          "stock_qty": 476,
           "colors": [
             {
               "color_cd": "BGS",
-              "amt": 77862580,
-              "qty": 125
+              "amt": 85866580,
+              "qty": 138
             },
             {
               "color_cd": "GRL",
-              "amt": 48962640,
-              "qty": 79
+              "amt": 60278640,
+              "qty": 97
             },
             {
               "color_cd": "BKS",
-              "amt": 47161590,
-              "qty": 75
+              "amt": 52198590,
+              "qty": 83
             }
           ],
-          "sale_rt": 0.3513853904282116,
+          "sale_rt": 0.4005037783375315,
           "rank": 2
         },
         {
@@ -1116,11 +999,11 @@
           "item_nm": "다운점퍼",
           "item_group": "다운",
           "tag_price": 890000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDJ36461TQL/thnail/041200A0A4D045FAA5F3CCF0E52C0493.jpg/dims/resize/200x200",
-          "sale_amt": 152795570,
-          "sale_qty": 191,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDJ36461BKS/thnail/33758996ADA440DA8647E5C585CCF5E3.jpg/dims/resize/200x200",
+          "sale_amt": 153596570,
+          "sale_qty": 192,
           "stor_qty": 509,
-          "stock_qty": 318,
+          "stock_qty": 317,
           "colors": [
             {
               "color_cd": "IVD",
@@ -1134,11 +1017,11 @@
             },
             {
               "color_cd": "BKS",
-              "amt": 37444090,
-              "qty": 46
+              "amt": 38245090,
+              "qty": 47
             }
           ],
-          "sale_rt": 0.37524557956778,
+          "sale_rt": 0.37721021611001965,
           "rank": 3
         },
         {
@@ -1148,18 +1031,18 @@
           "item_group": "다운",
           "tag_price": 1090000,
           "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36361BKL/thnail/758852AB08954CA8A179018EEA204CD2.jpg/dims/resize/200x200",
-          "sale_amt": 156398600,
-          "sale_qty": 158,
+          "sale_amt": 158360600,
+          "sale_qty": 160,
           "stor_qty": 638,
-          "stock_qty": 227,
+          "stock_qty": 225,
           "colors": [
             {
               "color_cd": "BKL",
-              "amt": 156398600,
-              "qty": 158
+              "amt": 158360600,
+              "qty": 160
             }
           ],
-          "sale_rt": 0.2476489028213166,
+          "sale_rt": 0.2507836990595611,
           "rank": 4
         },
         {
@@ -1184,92 +1067,66 @@
           "rank": 5
         },
         {
-          "prdt_cd": "V26SVDWJ31361",
-          "prdt_nm": "코쟈",
-          "item_nm": "방풍자켓",
-          "item_group": "아우터",
-          "tag_price": 790000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31361BGS/thnail/41589FB2D1124122964A92D5ABC2C270.jpg/dims/resize/200x200",
-          "sale_amt": 83146370,
-          "sale_qty": 116,
-          "stor_qty": 413,
-          "stock_qty": 297,
-          "colors": [
-            {
-              "color_cd": "BKS",
-              "amt": 45918260,
-              "qty": 65
-            },
-            {
-              "color_cd": "BGS",
-              "amt": 37228110,
-              "qty": 51
-            }
-          ],
-          "sale_rt": 0.28087167070217917,
-          "rank": 6
-        },
-        {
           "prdt_cd": "V26SVDWJ11961",
           "prdt_nm": "카살리나",
           "item_nm": "방풍자켓",
           "item_group": "아우터",
           "tag_price": 790000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ11961BKS/thnail/EC5B0C1AD6FD422B8997959D8B7D2137.jpg/dims/resize/200x200",
-          "sale_amt": 82865060,
-          "sale_qty": 116,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ11961BRD/thnail/5DFDEEA5F380453AA825CADF5BC5F2A6.jpg/dims/resize/200x200",
+          "sale_amt": 93767060,
+          "sale_qty": 131,
           "stor_qty": 805,
-          "stock_qty": 689,
+          "stock_qty": 674,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 33494600,
-              "qty": 47
+              "amt": 34995600,
+              "qty": 49
             },
             {
               "color_cd": "CRS",
-              "amt": 20032610,
-              "qty": 28
+              "amt": 22165610,
+              "qty": 31
             },
             {
               "color_cd": "BGS",
-              "amt": 17220000,
-              "qty": 24
+              "amt": 19432000,
+              "qty": 27
             },
             {
               "color_cd": "BRD",
-              "amt": 12117850,
-              "qty": 17
+              "amt": 17173850,
+              "qty": 24
             }
           ],
-          "sale_rt": 0.14409937888198757,
-          "rank": 7
+          "sale_rt": 0.16273291925465838,
+          "rank": 6
         },
         {
-          "prdt_cd": "V26SVDPT18161",
-          "prdt_nm": "벨로나 와이드",
-          "item_nm": "팬츠",
-          "item_group": "팬츠",
-          "tag_price": 290000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDPT18161MGS/thnail/3E68CC97BD8A4D64AF4A8E272A6C9D94.png/dims/resize/200x200",
-          "sale_amt": 29192560,
-          "sale_qty": 110,
-          "stor_qty": 246,
-          "stock_qty": 136,
+          "prdt_cd": "V26SVDWJ31361",
+          "prdt_nm": "코쟈",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 790000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ31361BKS/thnail/F6DBA907C5C0447698017C81DBCA91C1.jpg/dims/resize/200x200",
+          "sale_amt": 90493370,
+          "sale_qty": 126,
+          "stor_qty": 413,
+          "stock_qty": 287,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 16159740,
-              "qty": 61
+              "amt": 50184260,
+              "qty": 71
             },
             {
-              "color_cd": "MGS",
-              "amt": 13032820,
-              "qty": 49
+              "color_cd": "BGS",
+              "amt": 40309110,
+              "qty": 55
             }
           ],
-          "sale_rt": 0.44715447154471544,
-          "rank": 8
+          "sale_rt": 0.3050847457627119,
+          "rank": 7
         },
         {
           "prdt_cd": "V26SVDWJ10261",
@@ -1278,29 +1135,86 @@
           "item_group": "아우터",
           "tag_price": 590000,
           "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10261CRS/thnail/BBD64F79D69C46C691D2519A3D96DFEB.jpg/dims/resize/200x200",
-          "sale_amt": 57466680,
-          "sale_qty": 107,
+          "sale_amt": 66729680,
+          "sale_qty": 124,
           "stor_qty": 676,
-          "stock_qty": 569,
+          "stock_qty": 552,
           "colors": [
             {
               "color_cd": "TQL",
-              "amt": 26679390,
-              "qty": 49
+              "amt": 27800390,
+              "qty": 51
             },
             {
               "color_cd": "CRS",
-              "amt": 18577040,
-              "qty": 35
+              "amt": 23415040,
+              "qty": 44
             },
             {
               "color_cd": "BKS",
-              "amt": 12210250,
-              "qty": 23
+              "amt": 15514250,
+              "qty": 29
             }
           ],
-          "sale_rt": 0.15828402366863906,
+          "sale_rt": 0.1834319526627219,
+          "rank": 8
+        },
+        {
+          "prdt_cd": "V26SVDPT18161",
+          "prdt_nm": "벨로나 와이드",
+          "item_nm": "팬츠",
+          "item_group": "팬츠",
+          "tag_price": 290000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDPT18161MGS/thnail/3E68CC97BD8A4D64AF4A8E272A6C9D94.png/dims/resize/200x200",
+          "sale_amt": 29946560,
+          "sale_qty": 113,
+          "stor_qty": 246,
+          "stock_qty": 133,
+          "colors": [
+            {
+              "color_cd": "BKS",
+              "amt": 16391740,
+              "qty": 62
+            },
+            {
+              "color_cd": "MGS",
+              "amt": 13554820,
+              "qty": 51
+            }
+          ],
+          "sale_rt": 0.45934959349593496,
           "rank": 9
+        },
+        {
+          "prdt_cd": "V26SVDWJ10161",
+          "prdt_nm": "코쟈 미니",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 690000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10161BRD/thnail/8ED2B30B417D48AF80109F366BC0094D.png/dims/resize/200x200",
+          "sale_amt": 62213060,
+          "sale_qty": 99,
+          "stor_qty": 562,
+          "stock_qty": 463,
+          "colors": [
+            {
+              "color_cd": "IVS",
+              "amt": 27477240,
+              "qty": 44
+            },
+            {
+              "color_cd": "BKS",
+              "amt": 19624820,
+              "qty": 31
+            },
+            {
+              "color_cd": "BRD",
+              "amt": 15111000,
+              "qty": 24
+            }
+          ],
+          "sale_rt": 0.17615658362989323,
+          "rank": 10
         },
         {
           "prdt_cd": "V26SVDDJ10161",
@@ -1326,7 +1240,7 @@
             }
           ],
           "sale_rt": 0.3102310231023102,
-          "rank": 10
+          "rank": 11
         },
         {
           "prdt_cd": "V26SVDPT12361",
@@ -1335,15 +1249,15 @@
           "item_group": "팬츠",
           "tag_price": 250000,
           "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDPT12361BKS/thnail/A20022E300BC4A80BCFE0433BFF75875.jpg/dims/resize/200x200",
-          "sale_amt": 20432490,
-          "sale_qty": 89,
+          "sale_amt": 21132490,
+          "sale_qty": 92,
           "stor_qty": 332,
-          "stock_qty": 242,
+          "stock_qty": 239,
           "colors": [
             {
               "color_cd": "BKS",
-              "amt": 14945450,
-              "qty": 65
+              "amt": 15645450,
+              "qty": 68
             },
             {
               "color_cd": "TQS",
@@ -1351,38 +1265,7 @@
               "qty": 24
             }
           ],
-          "sale_rt": 0.2680722891566265,
-          "rank": 11
-        },
-        {
-          "prdt_cd": "V26SVDWJ10161",
-          "prdt_nm": "코쟈 미니",
-          "item_nm": "방풍자켓",
-          "item_group": "아우터",
-          "tag_price": 690000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ10161BKS/thnail/621757737D41464A9551FC00ECE39DC3.jpg/dims/resize/200x200",
-          "sale_amt": 54485060,
-          "sale_qty": 87,
-          "stor_qty": 562,
-          "stock_qty": 475,
-          "colors": [
-            {
-              "color_cd": "IVS",
-              "amt": 25545240,
-              "qty": 41
-            },
-            {
-              "color_cd": "BKS",
-              "amt": 17623820,
-              "qty": 28
-            },
-            {
-              "color_cd": "BRD",
-              "amt": 11316000,
-              "qty": 18
-            }
-          ],
-          "sale_rt": 0.15480427046263345,
+          "sale_rt": 0.27710843373493976,
           "rank": 12
         },
         {
@@ -1433,12 +1316,43 @@
           "rank": 14
         },
         {
+          "prdt_cd": "V26SVDRS17363",
+          "prdt_nm": "키에티 N",
+          "item_nm": "반팔티셔츠",
+          "item_group": "티셔츠",
+          "tag_price": 190000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDRS17363IVL/thnail/C60DEC44087948C6A120E8C1A8DAAA27.jpg/dims/resize/200x200",
+          "sale_amt": 11092700,
+          "sale_qty": 64,
+          "stor_qty": 511,
+          "stock_qty": 446,
+          "colors": [
+            {
+              "color_cd": "IVL",
+              "amt": 6615510,
+              "qty": 38
+            },
+            {
+              "color_cd": "PKL",
+              "amt": 2520190,
+              "qty": 15
+            },
+            {
+              "color_cd": "SBL",
+              "amt": 1957000,
+              "qty": 11
+            }
+          ],
+          "sale_rt": 0.12524461839530332,
+          "rank": 15
+        },
+        {
           "prdt_cd": "V26SVDDH36061",
           "prdt_nm": "에우리피데 슈가 N",
           "item_nm": "반팔다운",
           "item_group": "다운",
           "tag_price": 1090000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36061GRL/thnail/5C0FE4FFD0BF4AFC82CD3C3740AC4F8F.jpg/dims/resize/200x200",
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDH36061BGS/thnail/060C4FF2EE2A49FC9F6C9822874A01D6.jpg/dims/resize/200x200",
           "sale_amt": 61504540,
           "sale_qty": 62,
           "stor_qty": 426,
@@ -1456,90 +1370,33 @@
             }
           ],
           "sale_rt": 0.14553990610328638,
-          "rank": 15
-        },
-        {
-          "prdt_cd": "V26SVDRS17363",
-          "prdt_nm": "키에티 N",
-          "item_nm": "반팔티셔츠",
-          "item_group": "티셔츠",
-          "tag_price": 190000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDRS17363IVL/thnail/C60DEC44087948C6A120E8C1A8DAAA27.jpg/dims/resize/200x200",
-          "sale_amt": 10199700,
-          "sale_qty": 59,
-          "stor_qty": 511,
-          "stock_qty": 452,
-          "colors": [
-            {
-              "color_cd": "IVL",
-              "amt": 5893510,
-              "qty": 34
-            },
-            {
-              "color_cd": "PKL",
-              "amt": 2539190,
-              "qty": 15
-            },
-            {
-              "color_cd": "SBL",
-              "amt": 1767000,
-              "qty": 10
-            }
-          ],
-          "sale_rt": 0.11545988258317025,
           "rank": 16
         },
         {
-          "prdt_cd": "V26SVDWJ14361",
-          "prdt_nm": "레지아 숏",
-          "item_nm": "방풍자켓",
+          "prdt_cd": "V26SVDKC12863",
+          "prdt_nm": "라누비오",
+          "item_nm": "니트가디건",
           "item_group": "아우터",
-          "tag_price": 790000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14361CRS/thnail/5C656218CA9244E48C200AC02234AADB.jpg/dims/resize/200x200",
-          "sale_amt": 40086000,
-          "sale_qty": 56,
-          "stor_qty": 718,
-          "stock_qty": 662,
+          "tag_price": 350000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDKC12863IVS/thnail/FCFC769B9008435A808915D33901C4D1.jpg/dims/resize/200x200",
+          "sale_amt": 19904270,
+          "sale_qty": 62,
+          "stor_qty": 297,
+          "stock_qty": 234,
           "colors": [
             {
-              "color_cd": "BKS",
-              "amt": 18012000,
-              "qty": 25
+              "color_cd": "IVS",
+              "amt": 12177580,
+              "qty": 38
             },
             {
-              "color_cd": "CRS",
-              "amt": 14220000,
-              "qty": 20
-            },
-            {
-              "color_cd": "SBL",
-              "amt": 7854000,
-              "qty": 11
+              "color_cd": "NYD",
+              "amt": 7726690,
+              "qty": 24
             }
           ],
-          "sale_rt": 0.07799442896935933,
+          "sale_rt": 0.20875420875420875,
           "rank": 17
-        },
-        {
-          "prdt_cd": "V26SVDDJ31561",
-          "prdt_nm": "리아노리 미드",
-          "item_nm": "다운점퍼",
-          "item_group": "다운",
-          "tag_price": 1090000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDDJ31561BKS/thnail/DF86A3D22B164BD69082DA5F7305A78F.jpg/dims/resize/200x200",
-          "sale_amt": 50497760,
-          "sale_qty": 52,
-          "stor_qty": 306,
-          "stock_qty": 254,
-          "colors": [
-            {
-              "color_cd": "BKS",
-              "amt": 50497760,
-              "qty": 52
-            }
-          ],
-          "sale_rt": 0.16993464052287582,
-          "rank": 18
         },
         {
           "prdt_cd": "V26SVDRS16063",
@@ -1548,25 +1405,25 @@
           "item_group": "티셔츠",
           "tag_price": 150000,
           "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDRS16063IVL/thnail/1C45D0EC8C6B4ADCBBA6DBCA1911975A.jpg/dims/resize/200x200",
-          "sale_amt": 6989650,
-          "sale_qty": 52,
+          "sale_amt": 8319650,
+          "sale_qty": 62,
           "stor_qty": 561,
-          "stock_qty": 497,
+          "stock_qty": 487,
           "colors": [
             {
               "color_cd": "IVL",
-              "amt": 3410650,
-              "qty": 25
+              "amt": 4200650,
+              "qty": 31
             },
             {
               "color_cd": "BKS",
-              "amt": 1863000,
-              "qty": 14
+              "amt": 2268000,
+              "qty": 17
             },
             {
               "color_cd": "CRD",
-              "amt": 1161000,
-              "qty": 9
+              "amt": 1296000,
+              "qty": 10
             },
             {
               "color_cd": "MTL",
@@ -1574,8 +1431,8 @@
               "qty": 4
             }
           ],
-          "sale_rt": 0.09269162210338681,
-          "rank": 19
+          "sale_rt": 0.11051693404634581,
+          "rank": 18
         },
         {
           "prdt_cd": "V26SVDWJ14263",
@@ -1584,156 +1441,232 @@
           "item_group": "아우터",
           "tag_price": 590000,
           "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14263NYD/thnail/A7EA5C6CE1994B509795A55D2E6F85A1.jpg/dims/resize/200x200",
-          "sale_amt": 26089030,
-          "sale_qty": 49,
+          "sale_amt": 30986030,
+          "sale_qty": 58,
           "stor_qty": 460,
-          "stock_qty": 411,
+          "stock_qty": 402,
           "colors": [
             {
               "color_cd": "NYD",
-              "amt": 18067150,
-              "qty": 34
+              "amt": 21371150,
+              "qty": 40
             },
             {
               "color_cd": "PKL",
-              "amt": 8021880,
-              "qty": 15
+              "amt": 9614880,
+              "qty": 18
             }
           ],
-          "sale_rt": 0.10652173913043478,
+          "sale_rt": 0.12608695652173912,
+          "rank": 19
+        },
+        {
+          "prdt_cd": "V26SVDWJ14361",
+          "prdt_nm": "레지아 숏",
+          "item_nm": "방풍자켓",
+          "item_group": "아우터",
+          "tag_price": 790000,
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V26SVDWJ14361BKS/thnail/4C2E328F30114FF0AAEABA5D169B949A.jpg/dims/resize/200x200",
+          "sale_amt": 40797000,
+          "sale_qty": 57,
+          "stor_qty": 718,
+          "stock_qty": 661,
+          "colors": [
+            {
+              "color_cd": "BKS",
+              "amt": 19434000,
+              "qty": 27
+            },
+            {
+              "color_cd": "CRS",
+              "amt": 13509000,
+              "qty": 19
+            },
+            {
+              "color_cd": "SBL",
+              "amt": 7854000,
+              "qty": 11
+            }
+          ],
+          "sale_rt": 0.07938718662952646,
           "rank": 20
         }
       ],
       "insights": [
         {
           "title": "전일 26S 매출 vs 직전 6일 평균",
-          "value": "1972만원",
-          "delta": "-26.4%",
-          "tone": "down",
-          "desc": "직전 6일 시즌 평균 2678만원"
+          "value": "4080만원",
+          "delta": "+34.4%",
+          "tone": "up",
+          "desc": "직전 6일 시즌 평균 3036만원"
         },
         {
           "title": "26SS 누적 매출",
-          "value": "24.99억원",
-          "delta": "151 스타일",
+          "value": "27.02억원",
+          "delta": "157 스타일",
           "tone": "neutral",
           "desc": "1/1~4/26 누계"
         },
         {
           "title": "26SS 누적 수량",
-          "value": "4,503수량",
+          "value": "5,050수량",
           "delta": "TOP20 평균 판매율 23%",
           "tone": "neutral",
-          "desc": "TOP20 누적 판매 2,186수량"
+          "desc": "TOP20 누적 판매 2,240수량"
         },
         {
           "title": "26SS BEST 1",
           "value": "레지아",
-          "delta": "3.14억원",
+          "delta": "3.17억원",
           "tone": "up",
-          "desc": "방풍자켓 · 321수량 · 판매율 50%"
+          "desc": "방풍자켓 · 324수량 · 판매율 50%"
         }
       ],
       "yesterday_top": [
         {
           "rank": 1,
-          "prdt_cd": "V26SVDWJ11961",
-          "prdt_nm": "카살리나",
+          "prdt_cd": "V26SVDWJ31061",
+          "prdt_nm": "비아싸 N",
           "item_nm": "방풍자켓",
           "sesn": "26S",
-          "amt": 2212000,
-          "qty": 3
+          "amt": 9867000,
+          "qty": 16
         },
         {
           "rank": 2,
-          "prdt_cd": "V26SVDWJ10261",
-          "prdt_nm": "카몰리",
-          "item_nm": "방풍자켓",
-          "sesn": "26S",
-          "amt": 1652000,
-          "qty": 3
-        },
-        {
-          "rank": 3,
           "prdt_cd": "V26SVDWJ31361",
           "prdt_nm": "코쟈",
           "item_nm": "방풍자켓",
           "sesn": "26S",
-          "amt": 1440230,
-          "qty": 2
-        },
-        {
-          "rank": 4,
-          "prdt_cd": "V26SVDCR17463",
-          "prdt_nm": "파테르노",
-          "item_nm": "크로스백",
-          "sesn": "26S",
-          "amt": 1363000,
+          "amt": 3792000,
           "qty": 5
         },
         {
+          "rank": 3,
+          "prdt_cd": "V26SVDWJ10161",
+          "prdt_nm": "코쟈 미니",
+          "item_nm": "방풍자켓",
+          "sesn": "26S",
+          "amt": 2622000,
+          "qty": 4
+        },
+        {
+          "rank": 4,
+          "prdt_cd": "V26SVDWJ10261",
+          "prdt_nm": "카몰리",
+          "item_nm": "방풍자켓",
+          "sesn": "26S",
+          "amt": 1593000,
+          "qty": 3
+        },
+        {
           "rank": 5,
-          "prdt_cd": "V26SVDWJ31061",
-          "prdt_nm": "비아싸 N",
+          "prdt_cd": "V26SVDTS19963",
+          "prdt_nm": "베야노",
+          "item_nm": "반팔카라티셔츠",
+          "sesn": "26S",
+          "amt": 1542000,
+          "qty": 5
+        },
+        {
+          "rank": 6,
+          "prdt_cd": "V26SVDWJ11961",
+          "prdt_nm": "카살리나",
+          "item_nm": "방풍자켓",
+          "sesn": "26S",
+          "amt": 1422000,
+          "qty": 2
+        },
+        {
+          "rank": 7,
+          "prdt_cd": "V26SVUWJ16761",
+          "prdt_nm": "보마르초",
           "item_nm": "방풍자켓",
           "sesn": "26S",
           "amt": 1242000,
           "qty": 2
         },
         {
-          "rank": 6,
-          "prdt_cd": "V26SVDWJ14361",
-          "prdt_nm": "레지아 숏",
+          "rank": 8,
+          "prdt_cd": "V26SVUWJ11463",
+          "prdt_nm": "부치노",
           "item_nm": "방풍자켓",
           "sesn": "26S",
-          "amt": 790000,
-          "qty": 1
-        },
-        {
-          "rank": 7,
-          "prdt_cd": "V26SVDPT18161",
-          "prdt_nm": "벨로나 와이드",
-          "item_nm": "팬츠",
-          "sesn": "26S",
-          "amt": 783000,
-          "qty": 3
-        },
-        {
-          "rank": 8,
-          "prdt_cd": "V26SVDKC12863",
-          "prdt_nm": "라누비오",
-          "item_nm": "니트가디건",
-          "sesn": "26S",
-          "amt": 700000,
+          "amt": 931000,
           "qty": 2
         },
         {
           "rank": 9,
-          "prdt_cd": "V26SVDWJ10661",
-          "prdt_nm": "솔레도라",
-          "item_nm": "방풍자켓",
+          "prdt_cd": "V26SVDKP20463",
+          "prdt_nm": "아이아체 하프",
+          "item_nm": "니트풀오버",
           "sesn": "26S",
-          "amt": 690000,
-          "qty": 1
+          "amt": 783020,
+          "qty": 3
         },
         {
           "rank": 10,
-          "prdt_cd": "V26SVUSP15961",
-          "prdt_nm": "마티노 쇼츠",
-          "item_nm": "반바지",
+          "prdt_cd": "V26SVUKP15661",
+          "prdt_nm": "오트리콜리",
+          "item_nm": "니트풀오버",
           "sesn": "26S",
-          "amt": 588000,
-          "qty": 3
+          "amt": 665000,
+          "qty": 2
         }
       ],
       "shops": [
+        {
+          "shop_nm": "롯데에비뉴엘잠실",
+          "area": "서울",
+          "channel": "백화점",
+          "online": "오프라인",
+          "amt": 232265690,
+          "qty": 447,
+          "styles": [
+            {
+              "prdt_cd": "V26SVDWJ31461",
+              "prdt_nm": "레지아",
+              "item_nm": "방풍자켓",
+              "amt": 22326280,
+              "qty": 23
+            },
+            {
+              "prdt_cd": "V26SVDWJ31061",
+              "prdt_nm": "비아싸 N",
+              "item_nm": "방풍자켓",
+              "amt": 16726820,
+              "qty": 27
+            },
+            {
+              "prdt_cd": "V26SVDDJ36461",
+              "prdt_nm": "바를레타",
+              "item_nm": "다운점퍼",
+              "amt": 16726080,
+              "qty": 21
+            },
+            {
+              "prdt_cd": "V26SVDDH36361",
+              "prdt_nm": "에우리피데 벨벳",
+              "item_nm": "반팔다운",
+              "amt": 13644490,
+              "qty": 14
+            },
+            {
+              "prdt_cd": "V26SVDDH36061",
+              "prdt_nm": "에우리피데 슈가 N",
+              "item_nm": "반팔다운",
+              "amt": 8788000,
+              "qty": 9
+            }
+          ]
+        },
         {
           "shop_nm": "스타필드하남(직)",
           "area": "경기",
           "channel": "쇼핑몰",
           "online": "오프라인",
-          "amt": 221817750,
-          "qty": 290,
+          "amt": 231558750,
+          "qty": 314,
           "styles": [
             {
               "prdt_cd": "V26SVDDJ31361",
@@ -1760,8 +1693,8 @@
               "prdt_cd": "V26SVDWJ11961",
               "prdt_nm": "카살리나",
               "item_nm": "방풍자켓",
-              "amt": 12131060,
-              "qty": 17
+              "amt": 13553060,
+              "qty": 19
             },
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -1773,57 +1706,12 @@
           ]
         },
         {
-          "shop_nm": "롯데에비뉴엘잠실",
-          "area": "서울",
-          "channel": "백화점",
-          "online": "오프라인",
-          "amt": 211259690,
-          "qty": 389,
-          "styles": [
-            {
-              "prdt_cd": "V26SVDWJ31461",
-              "prdt_nm": "레지아",
-              "item_nm": "방풍자켓",
-              "amt": 22326280,
-              "qty": 23
-            },
-            {
-              "prdt_cd": "V26SVDDJ36461",
-              "prdt_nm": "바를레타",
-              "item_nm": "다운점퍼",
-              "amt": 16726080,
-              "qty": 21
-            },
-            {
-              "prdt_cd": "V26SVDWJ31061",
-              "prdt_nm": "비아싸 N",
-              "item_nm": "방풍자켓",
-              "amt": 16105820,
-              "qty": 26
-            },
-            {
-              "prdt_cd": "V26SVDDH36361",
-              "prdt_nm": "에우리피데 벨벳",
-              "item_nm": "반팔다운",
-              "amt": 13644490,
-              "qty": 14
-            },
-            {
-              "prdt_cd": "V26SVDDH36061",
-              "prdt_nm": "에우리피데 슈가 N",
-              "item_nm": "반팔다운",
-              "amt": 8788000,
-              "qty": 9
-            }
-          ]
-        },
-        {
           "shop_nm": "신세계센텀시티",
           "area": "부산",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 163340120,
-          "qty": 325,
+          "amt": 176386120,
+          "qty": 363,
           "styles": [
             {
               "prdt_cd": "V26SVDWJ31461",
@@ -1836,15 +1724,15 @@
               "prdt_cd": "V26SVDWJ31061",
               "prdt_nm": "비아싸 N",
               "item_nm": "방풍자켓",
-              "amt": 13731000,
-              "qty": 22
+              "amt": 15594000,
+              "qty": 25
             },
             {
               "prdt_cd": "V26SVDWJ11961",
               "prdt_nm": "카살리나",
               "item_nm": "방풍자켓",
-              "amt": 12161550,
-              "qty": 17
+              "amt": 12951550,
+              "qty": 18
             },
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -1859,6 +1747,96 @@
               "item_nm": "방풍자켓",
               "amt": 9974480,
               "qty": 16
+            }
+          ]
+        },
+        {
+          "shop_nm": "더현대서울",
+          "area": "서울",
+          "channel": "백화점",
+          "online": "오프라인",
+          "amt": 167795560,
+          "qty": 315,
+          "styles": [
+            {
+              "prdt_cd": "V26SVDWJ31461",
+              "prdt_nm": "레지아",
+              "item_nm": "방풍자켓",
+              "amt": 20466800,
+              "qty": 21
+            },
+            {
+              "prdt_cd": "V26SVDDH36361",
+              "prdt_nm": "에우리피데 벨벳",
+              "item_nm": "반팔다운",
+              "amt": 12753000,
+              "qty": 13
+            },
+            {
+              "prdt_cd": "V26SVDDJ31561",
+              "prdt_nm": "리아노리 미드",
+              "item_nm": "다운점퍼",
+              "amt": 10724190,
+              "qty": 11
+            },
+            {
+              "prdt_cd": "V26SVDWJ31061",
+              "prdt_nm": "비아싸 N",
+              "item_nm": "방풍자켓",
+              "amt": 9867000,
+              "qty": 16
+            },
+            {
+              "prdt_cd": "V26SVDDJ36461",
+              "prdt_nm": "바를레타",
+              "item_nm": "다운점퍼",
+              "amt": 8043270,
+              "qty": 10
+            }
+          ]
+        },
+        {
+          "shop_nm": "현대중동",
+          "area": "경기",
+          "channel": "백화점",
+          "online": "오프라인",
+          "amt": 157312860,
+          "qty": 310,
+          "styles": [
+            {
+              "prdt_cd": "V26SVDWJ31461",
+              "prdt_nm": "레지아",
+              "item_nm": "방풍자켓",
+              "amt": 18486840,
+              "qty": 19
+            },
+            {
+              "prdt_cd": "V26SVDWJ31061",
+              "prdt_nm": "비아싸 N",
+              "item_nm": "방풍자켓",
+              "amt": 13041000,
+              "qty": 21
+            },
+            {
+              "prdt_cd": "V26SVDPD10361",
+              "prdt_nm": "코레조",
+              "item_nm": "패딩",
+              "amt": 11563010,
+              "qty": 13
+            },
+            {
+              "prdt_cd": "V26SVDWJ11961",
+              "prdt_nm": "카살리나",
+              "item_nm": "방풍자켓",
+              "amt": 11376000,
+              "qty": 16
+            },
+            {
+              "prdt_cd": "V26SVDDJ36461",
+              "prdt_nm": "바를레타",
+              "item_nm": "다운점퍼",
+              "amt": 9587860,
+              "qty": 12
             }
           ]
         },
@@ -1908,116 +1886,26 @@
           ]
         },
         {
-          "shop_nm": "더현대서울",
-          "area": "서울",
-          "channel": "백화점",
-          "online": "오프라인",
-          "amt": 153158560,
-          "qty": 275,
-          "styles": [
-            {
-              "prdt_cd": "V26SVDWJ31461",
-              "prdt_nm": "레지아",
-              "item_nm": "방풍자켓",
-              "amt": 20466800,
-              "qty": 21
-            },
-            {
-              "prdt_cd": "V26SVDDH36361",
-              "prdt_nm": "에우리피데 벨벳",
-              "item_nm": "반팔다운",
-              "amt": 12753000,
-              "qty": 13
-            },
-            {
-              "prdt_cd": "V26SVDDJ31561",
-              "prdt_nm": "리아노리 미드",
-              "item_nm": "다운점퍼",
-              "amt": 10724190,
-              "qty": 11
-            },
-            {
-              "prdt_cd": "V26SVDWJ31061",
-              "prdt_nm": "비아싸 N",
-              "item_nm": "방풍자켓",
-              "amt": 9246000,
-              "qty": 15
-            },
-            {
-              "prdt_cd": "V26SVDDJ36461",
-              "prdt_nm": "바를레타",
-              "item_nm": "다운점퍼",
-              "amt": 8043270,
-              "qty": 10
-            }
-          ]
-        },
-        {
-          "shop_nm": "현대중동",
-          "area": "경기",
-          "channel": "백화점",
-          "online": "오프라인",
-          "amt": 143564860,
-          "qty": 274,
-          "styles": [
-            {
-              "prdt_cd": "V26SVDWJ31461",
-              "prdt_nm": "레지아",
-              "item_nm": "방풍자켓",
-              "amt": 17505840,
-              "qty": 18
-            },
-            {
-              "prdt_cd": "V26SVDPD10361",
-              "prdt_nm": "코레조",
-              "item_nm": "패딩",
-              "amt": 11563010,
-              "qty": 13
-            },
-            {
-              "prdt_cd": "V26SVDWJ11961",
-              "prdt_nm": "카살리나",
-              "item_nm": "방풍자켓",
-              "amt": 11376000,
-              "qty": 16
-            },
-            {
-              "prdt_cd": "V26SVDDJ36461",
-              "prdt_nm": "바를레타",
-              "item_nm": "다운점퍼",
-              "amt": 9587860,
-              "qty": 12
-            },
-            {
-              "prdt_cd": "V26SVDWJ31061",
-              "prdt_nm": "비아싸 N",
-              "item_nm": "방풍자켓",
-              "amt": 9315000,
-              "qty": 15
-            }
-          ]
-        },
-        {
           "shop_nm": "현대본점",
           "area": "서울",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 137165000,
-          "qty": 280,
+          "amt": 150376000,
+          "qty": 313,
           "styles": [
             {
               "prdt_cd": "V26SVDWJ31461",
               "prdt_nm": "레지아",
               "item_nm": "방풍자켓",
-              "amt": 14061000,
-              "qty": 15
+              "amt": 15042000,
+              "qty": 16
             },
             {
               "prdt_cd": "V26SVDWJ31061",
               "prdt_nm": "비아싸 N",
               "item_nm": "방풍자켓",
-              "amt": 11219090,
-              "qty": 18
+              "amt": 13703090,
+              "qty": 22
             },
             {
               "prdt_cd": "V26SVDDH36361",
@@ -2047,8 +1935,8 @@
           "area": "서울",
           "channel": "자사몰",
           "online": "온라인",
-          "amt": 131214370,
-          "qty": 260,
+          "amt": 143071870,
+          "qty": 303,
           "styles": [
             {
               "prdt_cd": "V26SVDDH36361",
@@ -2092,8 +1980,8 @@
           "area": "서울",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 124772360,
-          "qty": 269,
+          "amt": 136347360,
+          "qty": 299,
           "styles": [
             {
               "prdt_cd": "V26SVDWJ31461",
@@ -2103,25 +1991,25 @@
               "qty": 12
             },
             {
+              "prdt_cd": "V26SVDWJ31061",
+              "prdt_nm": "비아싸 N",
+              "item_nm": "방풍자켓",
+              "amt": 8774750,
+              "qty": 14
+            },
+            {
               "prdt_cd": "V26SVDWJ11961",
               "prdt_nm": "카살리나",
               "item_nm": "방풍자켓",
-              "amt": 7111930,
-              "qty": 10
+              "amt": 7822930,
+              "qty": 11
             },
             {
               "prdt_cd": "V26SVDWJ10261",
               "prdt_nm": "카몰리",
               "item_nm": "방풍자켓",
-              "amt": 6964810,
-              "qty": 13
-            },
-            {
-              "prdt_cd": "V26SVDWJ31061",
-              "prdt_nm": "비아싸 N",
-              "item_nm": "방풍자켓",
-              "amt": 6842750,
-              "qty": 11
+              "amt": 7495810,
+              "qty": 14
             },
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -2137,8 +2025,8 @@
           "area": "서울",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 123633580,
-          "qty": 227,
+          "amt": 133597580,
+          "qty": 251,
           "styles": [
             {
               "prdt_cd": "V26SVDWJ31461",
@@ -2151,8 +2039,8 @@
               "prdt_cd": "V26SVDWJ31061",
               "prdt_nm": "비아싸 N",
               "item_nm": "방풍자켓",
-              "amt": 12357750,
-              "qty": 20
+              "amt": 16704750,
+              "qty": 27
             },
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -2182,8 +2070,8 @@
           "area": "대전",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 110139320,
-          "qty": 234,
+          "amt": 124738320,
+          "qty": 268,
           "styles": [
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -2193,32 +2081,32 @@
               "qty": 15
             },
             {
-              "prdt_cd": "V26SVDWJ31461",
-              "prdt_nm": "레지아",
-              "item_nm": "방풍자켓",
-              "amt": 9987000,
-              "qty": 10
-            },
-            {
               "prdt_cd": "V26SVDWJ10261",
               "prdt_nm": "카몰리",
               "item_nm": "방풍자켓",
-              "amt": 8327580,
-              "qty": 15
+              "amt": 9448580,
+              "qty": 17
+            },
+            {
+              "prdt_cd": "V26SVDWJ31461",
+              "prdt_nm": "레지아",
+              "item_nm": "방풍자켓",
+              "amt": 8897000,
+              "qty": 9
             },
             {
               "prdt_cd": "V26SVDWJ31061",
               "prdt_nm": "비아싸 N",
               "item_nm": "방풍자켓",
-              "amt": 5640020,
-              "qty": 9
+              "amt": 6330020,
+              "qty": 10
             },
             {
               "prdt_cd": "V26SVDWJ31361",
               "prdt_nm": "코쟈",
               "item_nm": "방풍자켓",
-              "amt": 5214000,
-              "qty": 7
+              "amt": 6004000,
+              "qty": 8
             }
           ]
         },
@@ -2227,15 +2115,15 @@
           "area": "경기",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 105718920,
-          "qty": 200,
+          "amt": 115033920,
+          "qty": 225,
           "styles": [
             {
               "prdt_cd": "V26SVDWJ31061",
               "prdt_nm": "비아싸 N",
               "item_nm": "방풍자켓",
-              "amt": 12160960,
-              "qty": 20
+              "amt": 14023960,
+              "qty": 23
             },
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -2272,8 +2160,8 @@
           "area": "울산",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 82076870,
-          "qty": 127,
+          "amt": 94944870,
+          "qty": 160,
           "styles": [
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -2286,8 +2174,8 @@
               "prdt_cd": "V26SVDWJ31461",
               "prdt_nm": "레지아",
               "item_nm": "방풍자켓",
-              "amt": 7807000,
-              "qty": 8
+              "amt": 8788000,
+              "qty": 9
             },
             {
               "prdt_cd": "V26SVDWJ31061",
@@ -2300,15 +2188,15 @@
               "prdt_cd": "V26SVDWJ31361",
               "prdt_nm": "코쟈",
               "item_nm": "방풍자켓",
-              "amt": 4266000,
-              "qty": 6
+              "amt": 5688000,
+              "qty": 8
             },
             {
               "prdt_cd": "V26SVDWJ10561",
               "prdt_nm": "로이아테",
               "item_nm": "방풍자켓",
-              "amt": 4266000,
-              "qty": 6
+              "amt": 5688000,
+              "qty": 8
             }
           ]
         },
@@ -2317,22 +2205,22 @@
           "area": "서울",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 79977330,
-          "qty": 135,
+          "amt": 84828330,
+          "qty": 150,
           "styles": [
+            {
+              "prdt_cd": "V26SVDWJ31061",
+              "prdt_nm": "비아싸 N",
+              "item_nm": "방풍자켓",
+              "amt": 15632000,
+              "qty": 25
+            },
             {
               "prdt_cd": "V26SVDWJ31461",
               "prdt_nm": "레지아",
               "item_nm": "방풍자켓",
               "amt": 13843000,
               "qty": 14
-            },
-            {
-              "prdt_cd": "V26SVDWJ31061",
-              "prdt_nm": "비아싸 N",
-              "item_nm": "방풍자켓",
-              "amt": 13148000,
-              "qty": 21
             },
             {
               "prdt_cd": "V26SVDDJ36461",
@@ -2362,8 +2250,8 @@
           "area": "부산",
           "channel": "백화점",
           "online": "오프라인",
-          "amt": 71702240,
-          "qty": 110,
+          "amt": 78731240,
+          "qty": 131,
           "styles": [
             {
               "prdt_cd": "V26SVDWJ31461",
@@ -2383,8 +2271,15 @@
               "prdt_cd": "V26SVDWJ31061",
               "prdt_nm": "비아싸 N",
               "item_nm": "방풍자켓",
-              "amt": 3726000,
-              "qty": 6
+              "amt": 4347000,
+              "qty": 7
+            },
+            {
+              "prdt_cd": "V26SVDDJ36461",
+              "prdt_nm": "바를레타",
+              "item_nm": "다운점퍼",
+              "amt": 3204000,
+              "qty": 4
             },
             {
               "prdt_cd": "V26SVDDH36061",
@@ -2392,13 +2287,6 @@
               "item_nm": "반팔다운",
               "amt": 2943000,
               "qty": 3
-            },
-            {
-              "prdt_cd": "V26SVDWJ11961",
-              "prdt_nm": "카살리나",
-              "item_nm": "방풍자켓",
-              "amt": 2844000,
-              "qty": 4
             }
           ]
         }
@@ -2699,7 +2587,7 @@
           "item_nm": "다운점퍼",
           "item_group": "다운",
           "tag_price": 1290000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVUDJ30456BKS/thnail/3D1AFBAE306E4B7A8512026F7AF908C9.jpg/dims/resize/200x200",
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVUDJ30456GRD/thnail/28703F0145A4462D893EBD47955590C8.jpg/dims/resize/200x200",
           "sale_amt": 322724200,
           "sale_qty": 283,
           "stor_qty": 659,
@@ -3175,7 +3063,7 @@
           "item_nm": "다운점퍼",
           "item_group": "다운",
           "tag_price": 1290000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVUDJ30456BKS/thnail/3D1AFBAE306E4B7A8512026F7AF908C9.jpg/dims/resize/200x200",
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVUDJ30456GRD/thnail/28703F0145A4462D893EBD47955590C8.jpg/dims/resize/200x200",
           "sale_amt": 322724200,
           "sale_qty": 283,
           "stor_qty": 659,
@@ -3211,7 +3099,7 @@
           "item_nm": "팬츠",
           "item_group": "팬츠",
           "tag_price": 330000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVDPT13356BRD/thnail/20363C74555E4DDA98DED76B1EC4F3BF.jpg/dims/resize/200x200",
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVDPT13356BKS/thnail/013E201DBFE44FB4A2F25784A694579A.jpg/dims/resize/200x200",
           "sale_amt": 84063680,
           "sale_qty": 282,
           "stor_qty": 463,
@@ -3447,11 +3335,11 @@
       ],
       "insights": [
         {
-          "title": "전일 25F 매출",
-          "value": "494만원",
-          "delta": "",
-          "tone": "neutral",
-          "desc": "직전 6일 매출 없음"
+          "title": "전일 25F 매출 vs 직전 6일 평균",
+          "value": "0원",
+          "delta": "-100.0%",
+          "tone": "down",
+          "desc": "직전 6일 시즌 평균 82만원"
         },
         {
           "title": "25FW 누적 매출",
@@ -3475,98 +3363,7 @@
           "desc": "다운점퍼 · 1,455수량 · 판매율 93%"
         }
       ],
-      "yesterday_top": [
-        {
-          "rank": 1,
-          "prdt_cd": "V25FVUDJ30456",
-          "prdt_nm": "아우바 N",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 1161000,
-          "qty": 1
-        },
-        {
-          "rank": 2,
-          "prdt_cd": "V25FVDDJ15056",
-          "prdt_nm": "디아데마 슈가",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 1071000,
-          "qty": 1
-        },
-        {
-          "rank": 3,
-          "prdt_cd": "V25FVUDJ13856",
-          "prdt_nm": "포폴로",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 981000,
-          "qty": 1
-        },
-        {
-          "rank": 4,
-          "prdt_cd": "V25FVDDH30155",
-          "prdt_nm": "에우리피데 크롭",
-          "item_nm": "반팔다운",
-          "sesn": "25F",
-          "amt": 891000,
-          "qty": 1
-        },
-        {
-          "rank": 5,
-          "prdt_cd": "V25FVUWJ15854",
-          "prdt_nm": "타란토",
-          "item_nm": "방풍자켓",
-          "sesn": "25F",
-          "amt": 567000,
-          "qty": 1
-        },
-        {
-          "rank": 6,
-          "prdt_cd": "V25FVDWJ11054",
-          "prdt_nm": "발리아",
-          "item_nm": "방풍자켓",
-          "sesn": "25F",
-          "amt": 531000,
-          "qty": 1
-        },
-        {
-          "rank": 7,
-          "prdt_cd": "V25FVUKP10754",
-          "prdt_nm": "마쿠냐가",
-          "item_nm": "니트풀오버",
-          "sesn": "25F",
-          "amt": 351000,
-          "qty": 1
-        },
-        {
-          "rank": 8,
-          "prdt_cd": "V25FVDRL12454",
-          "prdt_nm": "크로시아",
-          "item_nm": "긴팔티셔츠",
-          "sesn": "25F",
-          "amt": 189000,
-          "qty": 1
-        },
-        {
-          "rank": 9,
-          "prdt_cd": "V25FVUDJ11756",
-          "prdt_nm": "디마 코듀로이",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": 0,
-          "qty": 0
-        },
-        {
-          "rank": 10,
-          "prdt_cd": "V25FVDDJ36455",
-          "prdt_nm": "바를레타",
-          "item_nm": "다운점퍼",
-          "sesn": "25F",
-          "amt": -801000,
-          "qty": -1
-        }
-      ],
+      "yesterday_top": [],
       "shops": [
         {
           "shop_nm": "온라인쇼핑몰(직)",
