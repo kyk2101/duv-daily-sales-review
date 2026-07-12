@@ -1,6 +1,6 @@
-# CLAUDE.md
+# AGENTS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Codex (Codex.ai/code) when working with code in this repository.
 
 ## Project purpose
 
@@ -84,7 +84,7 @@ If `git push` fails inside `run_daily.bat`, the most likely cause is a stale Win
 - Folder name contains Korean and a space (`매출리뷰용 어플`). Quote paths in shell commands.
 - `index.html` and `data/duv_review_data.json` are **build outputs that are committed**. GitHub Pages serves the root `index.html`, so each daily push must include both files together — that's how the published page actually changes.
 - `src/output/` is gitignored. It's a build mirror used for manual local preview without polluting commits.
-- The DCS AI parent project at `C:\AI\DCSAI\` has its own `CLAUDE.md` and `.claude/rules/` enforcing the `src/{util,service,core,output,download}` layout and `dcs-ai-cli` usage rules. Those still apply here.
+- The DCS AI parent project at `C:\AI\DCSAI\` has its own `AGENTS.md` and `.Codex/rules/` enforcing the `src/{util,service,core,output,download}` layout and `dcs-ai-cli` usage rules. Those still apply here.
 
 ## When data looks wrong
 

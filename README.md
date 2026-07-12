@@ -47,12 +47,12 @@ duv-daily-sales-review/
 ## 셋업 가이드 (1회)
 
 ### 1. 의존성 확인
-- Python 3.13 가상환경: `C:\Users\Admin\Desktop\DCSAI\.venv\Scripts\python.exe`
+- Python 3.13 가상환경: `C:\AI\DCSAI\.venv\Scripts\python.exe`
 - `dcs-ai-cli` 설치 + OAuth 인증 완료 (Claude Code MCP로 인증 시 영속됨)
 
 ### 2. Git 원격 연결 + 첫 push
 ```bash
-cd "C:/Users/Admin/Desktop/DCSAI/project_file/매출리뷰용 어플"
+cd "C:/AI/DCSAI/project_file/매출리뷰용 어플"
 git remote add origin https://github.com/kyk2101/duv-daily-sales-review.git
 git add .
 git commit -m "init: DUVETICA daily sales review app"
@@ -68,7 +68,7 @@ git push -u origin main
 ### 4. Windows 작업 스케줄러 등록
 관리자 PowerShell:
 ```powershell
-cd "C:/Users/Admin/Desktop/DCSAI/project_file/매출리뷰용 어플/scripts"
+cd "C:/AI/DCSAI/project_file/매출리뷰용 어플/scripts"
 ./setup_scheduler.ps1
 ```
 
