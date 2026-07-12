@@ -8,7 +8,7 @@ REM Resolves repo root from this bat's parent dir.
 set "REPO_ROOT=%~dp0.."
 for %%I in ("%REPO_ROOT%") do set "REPO_ROOT=%%~fI"
 
-set "VENV_PY=C:\AI\DCSAI\.venv\Scripts\python.exe"
+set "VENV_PY=C:\AI_WORKSPACE\AGENTS\STRATEGY_ANALYSIS\DCSAI\.venv\Scripts\python.exe"
 set "LOG_DIR=%REPO_ROOT%\logs"
 
 if not exist "%LOG_DIR%" mkdir "%LOG_DIR%" 2>nul

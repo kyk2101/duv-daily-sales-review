@@ -28,7 +28,7 @@ Three Python stages, run sequentially:
 
 ## Common commands
 
-All Python commands run from the repo root with `PYTHONPATH=.` and the project venv at `C:\AI\DCSAI\.venv`:
+All Python commands run from the repo root with `PYTHONPATH=.` and the project venv at `C:\AI_WORKSPACE\AGENTS\STRATEGY_ANALYSIS\DCSAI\.venv`:
 
 ```bash
 # Full daily cycle (what the scheduler runs)
@@ -84,7 +84,7 @@ If `git push` fails inside `run_daily.bat`, the most likely cause is a stale Win
 - Folder name contains Korean and a space (`매출리뷰용 어플`). Quote paths in shell commands.
 - `index.html` and `data/duv_review_data.json` are **build outputs that are committed**. GitHub Pages serves the root `index.html`, so each daily push must include both files together — that's how the published page actually changes.
 - `src/output/` is gitignored. It's a build mirror used for manual local preview without polluting commits.
-- The DCS AI parent project at `C:\AI\DCSAI\` has its own `AGENTS.md` and `.Codex/rules/` enforcing the `src/{util,service,core,output,download}` layout and `dcs-ai-cli` usage rules. Those still apply here.
+- The DCS AI parent project at `C:\AI_WORKSPACE\AGENTS\STRATEGY_ANALYSIS\DCSAI\` has its own `AGENTS.md` and `.Codex/rules/` enforcing the `src/{util,service,core,output,download}` layout and `dcs-ai-cli` usage rules. Those still apply here.
 
 ## When data looks wrong
 
