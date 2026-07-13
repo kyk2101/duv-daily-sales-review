@@ -222,8 +222,8 @@
         },
         {
           "rank": 8,
-          "prdt_cd": "V26SVDWJ10161",
-          "prdt_nm": "코쟈 미니",
+          "prdt_cd": "V26SVDWJ31061",
+          "prdt_nm": "비아싸 N",
           "item_nm": "방풍자켓",
           "sesn": "26S",
           "amt": 621000,
@@ -231,8 +231,8 @@
         },
         {
           "rank": 9,
-          "prdt_cd": "V26SVDWJ31061",
-          "prdt_nm": "비아싸 N",
+          "prdt_cd": "V26SVDWJ10161",
+          "prdt_nm": "코쟈 미니",
           "item_nm": "방풍자켓",
           "sesn": "26S",
           "amt": 621000,
@@ -1718,8 +1718,8 @@
         },
         {
           "rank": 8,
-          "prdt_cd": "V26SVDWJ10161",
-          "prdt_nm": "코쟈 미니",
+          "prdt_cd": "V26SVDWJ31061",
+          "prdt_nm": "비아싸 N",
           "item_nm": "방풍자켓",
           "sesn": "26S",
           "amt": 621000,
@@ -1727,8 +1727,8 @@
         },
         {
           "rank": 9,
-          "prdt_cd": "V26SVDWJ31061",
-          "prdt_nm": "비아싸 N",
+          "prdt_cd": "V26SVDWJ10161",
+          "prdt_nm": "코쟈 미니",
           "item_nm": "방풍자켓",
           "sesn": "26S",
           "amt": 621000,
@@ -2277,8 +2277,8 @@
               "qty": 7
             },
             {
-              "prdt_cd": "V26SVDDH36061",
-              "prdt_nm": "에우리피데 슈가 N",
+              "prdt_cd": "V26SVDDH31261",
+              "prdt_nm": "에우리피데",
               "item_nm": "반팔다운",
               "amt": 5886000,
               "qty": 6
@@ -2412,11 +2412,11 @@
               "qty": 5
             },
             {
-              "prdt_cd": "V26SVDDJ11761",
-              "prdt_nm": "콜레다라 벨벳",
-              "item_nm": "다운점퍼",
+              "prdt_cd": "V26SVDTS19963",
+              "prdt_nm": "베야노",
+              "item_nm": "반팔카라티셔츠",
               "amt": 2673000,
-              "qty": 3
+              "qty": 9
             }
           ]
         }
