@@ -99,7 +99,7 @@
       },
       {
         "rank": 7,
-        "prdt_cd": "V26FVDDJ31565",
+        "prdt_cd": "V26FVDDJ31465",
         "prdt_nm": "리아노리 미드 N",
         "item_nm": "다운점퍼",
         "sesn": "26F",
@@ -108,7 +108,7 @@
       },
       {
         "rank": 8,
-        "prdt_cd": "V26FVDDJ31465",
+        "prdt_cd": "V26FVDDJ31565",
         "prdt_nm": "리아노리 미드 N",
         "item_nm": "다운점퍼",
         "sesn": "26F",
@@ -126,8 +126,8 @@
       },
       {
         "rank": 10,
-        "prdt_cd": "V26FVDDJ11965",
-        "prdt_nm": "콜레다라",
+        "prdt_cd": "V26FVUDJ10365",
+        "prdt_nm": "레냐노",
         "item_nm": "다운점퍼",
         "sesn": "26F",
         "amt": 891000,
@@ -2319,8 +2319,8 @@
               "qty": 7
             },
             {
-              "prdt_cd": "V26SVDDH31261",
-              "prdt_nm": "에우리피데",
+              "prdt_cd": "V26SVDDH36061",
+              "prdt_nm": "에우리피데 슈가 N",
               "item_nm": "반팔다운",
               "amt": 5886000,
               "qty": 6
@@ -3292,7 +3292,7 @@
           "item_nm": "팬츠",
           "item_group": "팬츠",
           "tag_price": 330000,
-          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVDPT13356BKS/thnail/013E201DBFE44FB4A2F25784A694579A.jpg/dims/resize/200x200",
+          "img": "https://static-resource-mall.fnf.co.kr/duvetica/images/goods/ec/V25FVDPT13356BRD/thnail/20363C74555E4DDA98DED76B1EC4F3BF.jpg/dims/resize/200x200",
           "sale_amt": 84063680,
           "sale_qty": 282,
           "stor_qty": 463,
